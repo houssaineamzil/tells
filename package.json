@@ -2,7 +2,7 @@
 	"name": "tells",
 	"displayName": "Tells",
 	"description": "Positive code messages",
-	"icon": "https://raw.githubusercontent.com/houssaineamzil/tells/main/src/assets/icon.png",
+	"icon": "icon.png",
 	"version": "1.0.0",
 	"author": {
 		"name": "houssaineamzil",
