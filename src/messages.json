@@ -1,0 +1,11 @@
+[
+	"while (! (succeed = try()));",
+	"itWorks ? 'success' : 'retry'",
+	"isTired ? 'Coffee' : 'Code'",
+	"while (coding) { isTired ? break; : continue;",
+	"do { coding() } while (time.hour ≥ 22);",
+	"do { coding() } while (time.hour ≥ 07 && time.hour ≤ 23);",
+	"for (item in TODO) { complete() }",
+	"while (break) { for (item of dishes) { wash() }}",
+	"(async () => { if (somethingIsTrue) ? await import('/modules/my-desktop.js') })();"
+]
